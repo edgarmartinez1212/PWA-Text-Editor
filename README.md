@@ -153,3 +153,10 @@ You are required to submit the following for review:
 ---
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## Links
+### Heroku: 
+https://challenge19-pwatexteditor.herokuapp.com/
+
+### GitHub: 
+https://github.com/edgarmartinez1212/PWA-Text-Editor
