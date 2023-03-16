@@ -1,4 +1,4 @@
-# 19 Progressive Web Applications (PWA): Text Editor
+# 19 PWA Text Editor
 
 ## Your Task
 
